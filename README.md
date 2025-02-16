@@ -1,8 +1,8 @@
 # Открывали через VSCode
-Для сборки сайта
-Memory/cities
-views.py
-Запуск терминала
+Для сборки сайта открываем папку, там ищем
+Memory/cities, выбираем файл
+views.py и производим.
+Запуск терминала.
 в консоле пишем 
 cd memory
 python manage.py runserver
